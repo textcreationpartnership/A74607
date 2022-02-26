@@ -1,0 +1,958 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England's vvarning-piece. Or, the most strange and wonderfull predictions of Cleombrotus a heathen Jew, prophesied in the yeare 1272. upon the raignes of 29. kings of England; from Edvvard the I. to Charles the Fifth, 1799. Together with the prophesie of another heathen named Aldura Manasoch, and lately found amoungst antient records in the colledge of Wittenburg in Germany. / Interpreted by Doctor Delanorosus of the same colledge, out of the Arabian, Arminian, and Saxon languages, newly translated into English; now publisht and made obvious to the English nation, by a person of quality. Very remarkable to be observed in this present age, and by future generations.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74607</idno>
+            <idno type="STC">Wing E3072</idno>
+            <idno type="STC">Thomason E1085_1</idno>
+            <idno type="STC">ESTC R208043</idno>
+            <idno type="EEBO-CITATION">99867049</idno>
+            <idno type="PROQUEST">99867049</idno>
+            <idno type="VID">119339</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74607)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119339)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 161:E1085[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England's vvarning-piece. Or, the most strange and wonderfull predictions of Cleombrotus a heathen Jew, prophesied in the yeare 1272. upon the raignes of 29. kings of England; from Edvvard the I. to Charles the Fifth, 1799. Together with the prophesie of another heathen named Aldura Manasoch, and lately found amoungst antient records in the colledge of Wittenburg in Germany. / Interpreted by Doctor Delanorosus of the same colledge, out of the Arabian, Arminian, and Saxon languages, newly translated into English; now publisht and made obvious to the English nation, by a person of quality. Very remarkable to be observed in this present age, and by future generations.</title>
+                  <author>[Delanorosus, Doctor].</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Coles, dwelling at the signe of the Lambe in the Old-Baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "march 11", "1660"; imprint date crossed through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cleombrotus.</term>
+               <term>Manasoch, Aldura.</term>
+               <term>Great Britain --  History --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119339:1" rendition="simple:additions"/>
+            <p>ENGLAND'S WARNING-PIECE.</p>
+            <p>OR, The moſt ſtrange and wonderfull Predicti<g ref="char:EOLhyphen"/>ons of <hi>Cleombrotus</hi> a heathen Jew, propheſied in the Yeare 1272. upon the Raignes of 29. Kings of <hi>England;</hi> from EDVVARD the I. to CHARLES the Fifth, 1799.</p>
+            <p>Together with the Propheſie of another Heathen named <hi>Aldura Manaſoch,</hi> and lately found amongſt antient Records in the Colledge of <hi>Wittenburg</hi> in <hi>Germany.</hi>
+            </p>
+            <p>Interpreted by Doctor <hi>Delanoroſus</hi> of the ſame Colledge, out of the <hi>Arabian, Arminian,</hi> and <hi>Saxon</hi> Languages, newly tranſlated into Engliſh; Now publiſht and made obvious to the Eng<g ref="char:EOLhyphen"/>liſh Nation, by a Perſon of quality.</p>
+            <p>
+               <hi>Very remarkable to be obſerved in this preſent Age, and by future Generations.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>Francis Coles,</hi> dwelling at the ſigne of the Lambe in the Old-Baily, 1661.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:119339:2" rendition="simple:additions"/>
+            <pb facs="tcp:119339:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hat is here ſet downe within this Map of Propheſies, and made obvious to the <hi>Engliſh</hi> Nation, was found by an Engliſh Gentleman amongſt ſome ancient Records in a Colledge of <hi>Wittenburg</hi> in <hi>Germany,</hi> 'twas written moſt in <hi>Italian,</hi> the reſt in <hi>Arminian</hi> and <hi>Arabian</hi> languages, ſtrange and almoſt unknowne Letters; ſome was in the <hi>Saxon</hi> language, and by the deſcription of the Date it is found to be Three hundred and Eighteen yeares ſince it was written, and in the raigne of EDVVARD the firſt; the Au<g ref="char:EOLhyphen"/>thors name was there, but could not be read, nor interpre<g ref="char:EOLhyphen"/>ted plainly; yet as neere as ſome could define it, they red it <hi>Cleombrotus</hi> a Heathen, others were of the mind it was the wandering <hi>Jew,</hi> and gave many ſound and pregnant Reaſons; For ſaid they, heer have been not long agoe a ſtrange Travailer, who could give more accompt of the antientry of the Empire then any Rolles or Deſcription ever did. Moreover hee diſcovered theſe Propheſies, and ſaid they lay amongſt the Records, which was knowne not to be removed nor toucht in many Ages before; beſides, many learned Schollers and Maſters of Sciences, did averre that if any wandering <hi>Iew</hi> was it muſt be hee, a Man never knowne to be of any reſidence.</p>
+            <pb facs="tcp:119339:3"/>
+            <p>But as for his ſtrange and wonderfull Predictions they are heere ſet downe, and many are come to paſſe in our dayes already, and 182. yeares are yet to come of his Propheſies.</p>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>WHen firſt this Heathen, all theſe things fore-ſaw,</l>
+               <l>It was Three hundred eighteene yeares agoe;</l>
+               <l>Which in our time, great part hath hapned true,</l>
+               <l>That was Predicted by this heathen <hi>Jew;</hi>
+               </l>
+               <l>Five hundred yeares, his Propheſie ſhould laſt,</l>
+               <l>Three hundred eighteene of it now is paſt;</l>
+               <l>Great part found true, what he ſaid ſhould be done,</l>
+               <l>One hundred Eighty two is ſtill to come.</l>
+               <l>Strange wonders of the world hee doth deſcribe,</l>
+               <l>And in his Propheſie he doth Confide,</l>
+               <l>That in the Sixteene hundreth ſixtieth yeare</l>
+               <l>Strange wonders unto <hi>England</hi> ſhall appeare:</l>
+               <l>Which will out laſt this Propheſie with fame,</l>
+               <l>And ſpring ſeaven Kings, in linage of one Name.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="prophecy">
+               <pb n="1" facs="tcp:119339:3"/>
+               <head>The firſt Propheſie in the yeare, <hi>1272.</hi>
+               </head>
+               <p>
+                  <hi>ENgland</hi> will be govern'd three Raignes together upon theſe three Letters, <hi>E. E. E:</hi> and in the Raigne of the later, it will be a bloody Conflict betweene the three Lyons and the Flower-Deluce, and the Lyon will make a prey of it, and after that ſhall the <hi>F.</hi> bee ſubject to the <hi>E.</hi>
+               </p>
+               <div type="part">
+                  <head>The Morall.</head>
+                  <p>It ſignifies that when <hi>Edward</hi> the third Raigned in <hi>England,</hi> there ſhould warres happen betweene him and <hi>France,</hi> and the Lyon ma<g ref="char:EOLhyphen"/>king a prey upon the Flower-Deluce; was that hee ſhould quarter their Armes and bring them to his, after which <hi>France</hi> ſhould be ſub<g ref="char:EOLhyphen"/>ject to <hi>England.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="prophecy">
+               <head>The ſecond Propheſie.</head>
+               <p>BUt in the Yeare, 1377. The letter <hi>E.</hi> ſhall be extinguiſh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and in the yeare 1387. will great diſcentions ariſe in England, and the blood of many Nobles will be ſpilt, great ſtrugling will be for the re<g ref="char:EOLhyphen"/>gall Diadem, and at that time will <hi>York<g ref="char:punc">▪</g>
+                  </hi> be removed, and <hi>Lancaſter</hi> will carry the voyce for the Court.</p>
+               <lg>
+                  <l>
+                     <hi>Then will the Kingdome make great mone,</hi>
+                  </l>
+                  <l>
+                     <hi>To day we have a King, to morrow we have none:</hi>
+                  </l>
+                  <l>
+                     <hi>But when this tribulation's done,</hi>
+                  </l>
+                  <l>
+                     <hi>From</hi> Lancaſter <hi>the King will come.</hi>
+                  </l>
+               </lg>
+               <div type="part">
+                  <head>The Morall.</head>
+                  <p>This was <hi>Richard</hi> the ſecond of the houſe of <hi>Yorke,</hi> depoſed of his Crowne by <hi>Henry</hi> the 4.th of the houſe of <hi>Lancaſter,</hi> who fighting ſo many ſeverall Battels defeating one another, that the Subjects did not know when they had a King nor when they had none, but <hi>Lancaſter</hi> carrying the voyce for the Court was <hi>Henry</hi> of <hi>Lancaſter;</hi> depoſed <hi>Richard</hi> and tooke the Crowne.</p>
+                  <p>After this for many yeares will great warres continue, but towards the time of 1483. will a wild Bore appeare out of <hi>Yorke</hi> and will en<g ref="char:EOLhyphen"/>counter two Lyons whelps, and after a ſmall repoſing will deſtroy them, Hee will cruſh many Peeres unexpectedly, many Treaſonss
+<pb n="2" facs="tcp:119339:4"/>and horrid Murthers that time will bee committed, and Noble mens blood will be as plenty as Commons.</p>
+                  <lg>
+                     <l>
+                        <hi>Then may</hi> England <hi>pray that none,</hi>
+                     </l>
+                     <l>
+                        <hi>Canary Wines that yeare come home:</hi>
+                     </l>
+                     <l>
+                        <hi>For if it doth, 'tis certainly</hi>
+                     </l>
+                     <l>
+                        <hi>The Letter</hi> G. <hi>by it will dye.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div type="part">
+                  <head>The Morall.</head>
+                  <p>This was <hi>Richard</hi> the 3.d of the houſe of <hi>York,</hi> who gave the wild Bore in his Armes; The Lyons Whelps were his two Nephewes hee deſtroyed, and Headed ſeverall Noble Men: The Letter <hi>G.</hi> was his Brother <hi>George</hi> Duke of <hi>Clarence,</hi> whom he caus'd to be ſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fled in a But of Malmſey Wine. All which came to paſſe according to the Propheſie.</p>
+               </div>
+            </div>
+            <div type="prophecy">
+               <head>The ſecond Propheſie on <hi>Richard</hi> the 3.<hi rend="sup">d</hi>.</head>
+               <lg>
+                  <l>THen after two yeares you will find,</l>
+                  <l>Great alterations by a mind,</l>
+                  <l>The <hi>R.</hi> will be extinguiſht quite;</l>
+                  <l>Then <hi>Richmond</hi> he comes in by right,</l>
+                  <l>And fights a Combate with the Bore,</l>
+                  <l>That never ſhall be <hi>Richard</hi> more:</l>
+                  <l>Then ſhall <hi>Yorke</hi> and <hi>Lancaſter</hi>
+                  </l>
+                  <l>Be excluded from a War;</l>
+                  <l>And ever after both ſhall be,</l>
+                  <l>Conjoyn'd in Peace and Vnity.</l>
+               </lg>
+               <p>
+                  <hi>This was performed by a Marriage, between</hi> Henry <hi>the ſeventh and a Maiden Dutcheſſe of</hi> Yorke, <hi>being Heireſſe.</hi>
+               </p>
+            </div>
+            <div type="prophecy">
+               <head>A Propheſie upon <hi>Henry</hi> the ſeventh.</head>
+               <p>TWenty three yeares then will England be governed, both in peace and plenty; And after that will ariſe a Prince figured <hi>Mars</hi> upon his Breſt, at that time will Chriſtendome receive a mighty Shacke; That the Foundations of <hi>Rome</hi> will ſeeme to ſtartle, great hurly bur<g ref="char:EOLhyphen"/>lies will bee betweene Forraigne Princes: And ſo at that time will ſome Neighbouring Nation be Englands chiefe Object.</p>
+               <p>That great Variance will enſue, much blood will be ſpilt; Many Noble mens lives will be loſt; So that ſuch diſcenſions will ariſe from
+<pb n="3" facs="tcp:119339:4"/>that time, that never will bee heartily reconciled againe; Not long after that will bee ſuch a Change of Government, that England will have foure within the ſpace of twelve yeares: Then ſhall the Female Sex rule the Male for Forty yeares together, ſo exſtinguiſh.</p>
+            </div>
+            <div type="prophecy">
+               <head>A Propheſie, <hi>1602.</hi>
+               </head>
+               <p>
+                  <hi>AFter that ſhall ariſe the Letter</hi> J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>out of the North, and will ride in upon a Stags backe, and reigne Dominicall many yeares.</hi>
+               </p>
+               <lg>
+                  <l>The Dragon then ſhall downe be put;</l>
+                  <l>The Lyon Rampant ſhall come up.</l>
+                  <l>Aſſiſted by the Vnicorne,</l>
+                  <l>And make two Kingdomes all as one.</l>
+                  <l>That yeare the Leopard from his Love,</l>
+                  <l>Shall conſtant to the Lyon prove;</l>
+                  <l>Beware a <hi>Seamoote</hi> doe not ſtrive,</l>
+                  <l>With Craft the Dragon to revive,</l>
+                  <l>But if he doe the Eagle rhen</l>
+                  <l>Will court the Lyon to his Denne:</l>
+                  <l>Whoſe fancy to the Stagge ſhalt aime,</l>
+                  <l>For hunting likely is his Game:</l>
+                  <l>In Sixteene hundred yeares and ten,</l>
+                  <l>The <hi>Stewart</hi> ſhall be Maſter then;</l>
+                  <l>No Wars within his Reigne ſhall be,</l>
+                  <l>But what's betweene the Stagge and He.</l>
+               </lg>
+            </div>
+            <div type="prophecy">
+               <head>A Propheſie for the yeare, 1625.</head>
+               <lg>
+                  <l>
+                     <hi>WHen Sixteen hundred yeare is come,</hi>
+                  </l>
+                  <l>
+                     <hi>And Twenty five the</hi> J. <hi>is done;</hi>
+                  </l>
+                  <l>
+                     <hi>The Letter</hi> C. <hi>ſhall take the Crowne,</hi>
+                  </l>
+                  <l>
+                     <hi>And reigne Nine yeares in high Renowne</hi>
+                  </l>
+                  <l>
+                     <hi>But then beware of</hi> Lebone Rex,</l>
+                  <l>
+                     <hi>Leaſt that the</hi> P. <hi>the Lyon vix,</hi>
+                  </l>
+                  <l>
+                     <hi>For then ſad Fates and deſtinie,</hi>
+                  </l>
+                  <l>
+                     <hi>By Wars throughout his Reigne ſhall be:</hi>
+                  </l>
+                  <l>
+                     <hi>Then with a blow the times will turne,</hi>
+                  </l>
+                  <l>
+                     <hi>And thouſands for one Man ſhall mourne:</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>The</hi> C. <hi>ſhall ſtoupe unto the</hi> C,</l>
+                  <l>
+                     <hi>But pray the firſt it be not hee.</hi>
+                  </l>
+               </lg>
+               <pb n="4" facs="tcp:119339:5"/>
+               <p>But before this day comes there will raigne a mighty Warre, many Townes will be brought low, ſtately Ceaders will bow their heads, and mighty Caſtles ſtoope to Cotages, then will England be furfeited with the blood of Innocents, and remaine a while without King, Lords, or Commons, then will Churches be made Stables and Pallaces become Priſons; the People at that time ſhall ſtand amazed thus be<g ref="char:EOLhyphen"/>wailing. —</p>
+               <lg>
+                  <l>
+                     <hi>O happy certainly are they,</hi>
+                  </l>
+                  <l>
+                     <hi>That never did l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ve to ſee this day;</hi>
+                  </l>
+                  <l>
+                     <hi>Our wealth is all unto confuſion brought</hi>
+                  </l>
+                  <l>
+                     <hi>By thoſe who have not left us worth a groat;</hi>
+                  </l>
+                  <l>
+                     <hi>Our ſtately Livings to the ground is come,</hi>
+                  </l>
+                  <l>
+                     <hi>But dare not ſpeake of it, we muſt be dumb,</hi>
+                  </l>
+                  <l>
+                     <hi>Once had we Juſtice and a glorious King,</hi>
+                  </l>
+                  <l>
+                     <hi>Now thouſand Tyrants in the roome of Him:</hi>
+                  </l>
+                  <l>
+                     <hi>Which like to Tygers did his Life betray,</hi>
+                  </l>
+                  <l>
+                     <hi>Since we like Sheep muſt unto Wolves obey:</hi>
+                  </l>
+                  <l>
+                     <hi>We know not where to goe nor where to fly,</hi>
+                  </l>
+                  <l>
+                     <hi>But like poore</hi> Job <hi>ſit down in miſery.</hi>
+                  </l>
+               </lg>
+               <p>Great Chops and Changes at that time will happen, and the Death of ſome great man will then haſten: But when you remember the fall of <hi>Charing.</hi> Croſſe, and ſee a new one built in <hi>Pault</hi> Church, then will Captivity bee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>led captive, and Redemption out of bondage will draw near, at which time the Sea will ſay to the Land, I have brought home the Treaſure of many yeares Voyage. And the Land ſhall then anſwer, it is ſo rich and precious I am not worthy to receive it, which time deſcribed is, 1660.</p>
+               <lg>
+                  <l>
+                     <hi>In the Sixteen hundreth ſixtieth yeare,</hi>
+                  </l>
+                  <l>
+                     <hi>Strange Wonders unto</hi> England <hi>ſhall appeare;</hi>
+                  </l>
+                  <l>
+                     <hi>Providence by Conjunction joyneth cloſe,</hi>
+                  </l>
+                  <l>
+                     <hi>The exiled Thiſtle to the Southern Roſe:</hi>
+                  </l>
+                  <l>
+                     <hi>For</hi> Neptune <hi>of the Ocean home ſhall bring</hi>
+                  </l>
+                  <l>
+                     <hi>A ſecond</hi> C, <hi>but what a precious thing</hi>
+                  </l>
+                  <l>
+                     <hi>Will this ſame Letter be, and high will ſtand,</hi>
+                  </l>
+                  <l>
+                     <hi>Lord of the Eleaventh houſe by Sea and Land;</hi>
+                  </l>
+                  <l>
+                     <hi>Deſcribe but</hi> Mars <hi>and</hi> Venus <hi>to commune,</hi>
+                  </l>
+                  <l>
+                     <hi>He comes in</hi> May <hi>or elſe the firſt of</hi> June;</l>
+                  <pb n="5" facs="tcp:119339:5"/>
+                  <l>
+                     <hi>Pray that the Seas may calme and quiet be,</hi>
+                  </l>
+                  <l>
+                     <hi>Twice most he dangers, now againe at Sea:</hi>
+                  </l>
+                  <l>
+                     <hi>Yet will be quit from troubles,</hi> Neptunes <hi>Rore,</hi>
+                  </l>
+                  <l>
+                     <hi>And when he is arrived on the ſhore,</hi>
+                  </l>
+                  <l>
+                     <hi>Obſerve this Propheſie, 'twill make appeare,</hi>
+                  </l>
+                  <l>
+                     <hi>His Reigne conſiſts on Five and fifty yeare.</hi>
+                  </l>
+                  <l>
+                     <hi>But yet before the Eighty firſt you'l ſee,</hi>
+                  </l>
+                  <l>
+                     <hi>A mighty Monarch in the World He'l be;</hi>
+                  </l>
+                  <l>
+                     <hi>Some great and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>gy Warre may then enſue;</hi>
+                  </l>
+                  <l>
+                     <hi>If that by chance the Eagle proves not true,</hi>
+                  </l>
+                  <l>
+                     <hi>The Lyon Rampant may in fury grow,</hi>
+                  </l>
+                  <l>
+                     <hi>Though 'tis ſuſpected whether he will or no:</hi>
+                  </l>
+                  <l>
+                     <hi>For if the Eagle he ſhould fly too fast</hi>
+                  </l>
+                  <l>
+                     <hi>'Tis thought his Talons will be clipt at last;</hi>
+                  </l>
+                  <l>
+                     <hi>For then in this Diſcription you will find,</hi>
+                  </l>
+                  <l>
+                     <hi>All</hi> Europe <hi>will be ſubject to one m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ld,</hi>
+                  </l>
+                  <l>
+                     <hi>Which is the Letter</hi> C. <hi>predicted true,</hi>
+                  </l>
+                  <l>
+                     <hi>That will ſome great and Neighbouring Prince ſubdue:</hi>
+                  </l>
+                  <l>
+                     <hi>And then before the Lyon provoth kind,</hi>
+                  </l>
+                  <l>
+                     <hi>He'l have an hear<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> according to his mind,</hi>
+                  </l>
+                  <l>
+                     <hi>Sprung from a houſe that's of a pretty N<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>,</hi>
+                  </l>
+                  <l>
+                     <hi>An</hi> Onridge <hi>foundeth ſomthing neare the ſame.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Then</hi> Spaine <hi>in fame ſhall luſt,</hi>
+                  </l>
+                  <l>France <hi>by chance may fall:</hi>
+                  </l>
+                  <l>Germany <hi>will ſtand faſt,</hi>
+                  </l>
+                  <l>
+                     <hi>but</hi> England <hi>all in all.</hi>
+                  </l>
+               </lg>
+               <p>Now marke that towards the yeare 1662. will great Conteſt bee in England about Religion, at which time will then reigne Twenty eight Sects of ſeverall Opinions in which time will <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y many ſparkes of Diſcentions, but of ſmall continuance, like the snuffe of a Candle quickly waſt out and ſpone extinguiſh; For then will the Crowes head and the Mag<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pres <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be a ſtumbling block to erronious Errors, more Diſputants will be in anguing then Pariſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Paſtors in reconciling, many at that time will bee confuted and range abroad like ſeemed mad men, but after a while they will ſoone bee quieted; So that by the yeare 1665. will all become one peculiar Government, and then
+<pb n="6" facs="tcp:119339:6"/>'twill be as hard to heare the name of a Souldier in open hoſtility, as to ſee a white Raven on the top of a Pinacle, a white Harveſt will fol<g ref="char:EOLhyphen"/>low, and Peace and plenty will continue, few Murthers will be com<g ref="char:EOLhyphen"/>mitted, no Treaſons will bee thought of; But in the yeare 1669. or thereabouts, will a ſhip ſayle up the River of <hi>Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nes,</hi> and a Marchant will aske the Mariner what Newes he bringeth, the Mariner ſhall an<g ref="char:EOLhyphen"/>ſwer, that <hi>Auſtria</hi> is removed to England, and the Gates of <hi>Rome</hi> doth ſeeme to tremble: That yeare will ſome great Forraign, Prince have a fall, but England ſhall reigne Dominicall and provide a great Voy<g ref="char:EOLhyphen"/>age for Sea, but beware a Swallow do not ſir in the S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>earne of the Ad<g ref="char:EOLhyphen"/>mirall, for if it doe 'twill in danger the Fleet for that bout. —</p>
+               <p>This was interpreted in the <hi>Saxon</hi> Language, that the Vice-admirall that yeare his name will be <hi>Swallo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> and will endeavour to breake his Allegiance and betray the Fleet.</p>
+               <p>And in the yeare 1680, great Tu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>naments wil be exerciſed, Tilting and Launces will be high <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o requeſt and that yeare will a <hi>Talbot</hi> jump to a Duke of <hi>Norfolk<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> But i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> will be better for him to abſent that day, then repent of his Title all the yeare after, for if <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e horſe throw him in the morning, let him ab<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aine his Honour that days otherwiſe hee will cake a Fall at. Court and pitch his head again a <hi>Barkley</hi> Caſtle, for the Eagle and the Leonard ſhall ſpur<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> him in the darke; for the Moone that time will be Eclipſed, but if his Houſe doth not ſtumble as hee mounteth let him proceed; For then he ſhall diſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ver by the light of the Moone, the Craftineſſe of the Eagle in all her darkneſſe. The day is deſcribed thus. —</p>
+               <lg>
+                  <l>
+                     <hi>THe Sixteen hundred eightieth yeare will bring</hi>
+                  </l>
+                  <l>
+                     <hi>Great, dayes of Honour by a mighty King;</hi>
+                  </l>
+                  <l>
+                     <hi>For Nobles in the moneth of</hi> Iuly, <hi>they</hi>
+                  </l>
+                  <l>
+                     <hi>Shall t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y great actions on the Twentieth day<g ref="char:punc">▪</g>
+                     </hi>
+                  </l>
+                  <l>
+                     <hi>By which you I find in this ſame Propheſie</hi>
+                  </l>
+                  <l>
+                     <hi>A</hi> Talbot <hi>ſhall the Dinks of</hi> Norfolke <hi>he;</hi>
+                  </l>
+                  <l>
+                     <hi>An Aegle thou, begins at this to ſpurne,</hi>
+                  </l>
+                  <l>
+                     <hi>Till, ſhe have made the</hi> Talbots <hi>title turne.</hi>
+                  </l>
+                  <l>
+                     <hi>Vnhappie then will be the Twentieth day,</hi>
+                  </l>
+                  <l>
+                     <hi>Vnhappie</hi> Talbot, <hi>this Prediction ſay;</hi>
+                  </l>
+                  <l>
+                     <hi>If that his Horſe doth ſtumble when he Mons,</hi>
+                  </l>
+                  <l>
+                     <hi>This is a perfect and a true account:</hi>
+                  </l>
+                  <pb n="7" facs="tcp:119339:6"/>
+                  <l>
+                     <hi>In his behalfe the Moone will looſe his light,</hi>
+                  </l>
+                  <l>
+                     <hi>And he are ſted at the Court for ſpight;</hi>
+                  </l>
+                  <l>
+                     <hi>For Treaſon and Contentions they have bred,</hi>
+                  </l>
+                  <l>
+                     <hi>He ſhall at</hi> Barkley <hi>Caſtle looſe his head.</hi>
+                  </l>
+                  <l>
+                     <hi>But if he miſſe that Twentieth day alore,</hi>
+                  </l>
+                  <l>
+                     <hi>He'l live a Duke for thirty yeare and more.</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi>Another Propheſie predicted, not by the firſt Author but by ano<g ref="char:EOLhyphen"/>ther, whoſe name was found to be in that Language,</hi>
+               </p>
+               <p>ADVRA MANASSOCH.</p>
+               <p>It was written in the <hi>Arabian</hi> Tongue as Doctor <hi>Delanorefus</hi> of <hi>Wettenburg</hi> Colledge did define, but very dull and hard to be diſco<g ref="char:EOLhyphen"/>vered though with much labour and great diligence hee ſearched, and to his Judgement he underſtood it, to have been predicted neare upon the accompt of the yeare, 1700. which is remarkeable and moſt won<g ref="char:EOLhyphen"/>derfull to be thought of: For ſaid he, would Providence admit me to live untill the time and operation of this Propheſie, I then could tell you, the moſt ſtrange and not able Changes of great Princes unto the end of the World but when this was predicted he deſcrib'd himſelfe thus, — ADVRA MANASSOCH, whi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ged, 134.</p>
+            </div>
+            <div type="prophecy">
+               <head>The Propheſie.</head>
+               <p>NEare upon the Yeare, 1700. will happen to riſe a great Rebelli<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n in the Northern parts, and if you chance to ſee a green Winter then ſurely 'twill follow a bleeding Summer: Then beware a Com<g ref="char:EOLhyphen"/>bate with a Dane, great Conteſt will bee amongſt themſelves, but of a ſhort Continuance; ſmall prejudice to the Engliſh Nation, and ſo extinguiſh.</p>
+            </div>
+            <div type="prophecy">
+               <head>The ſecond Propheſie of <hi>Aldura Manaſoch 1700.</hi>
+               </head>
+               <p>THis will be a yeare of great Change and alteration throughout the whole Realme, but no Wars heard or thought of and a glorious Flower of long continuance that yeare will fall his Colour. For the Letter <hi>C</hi> will lye downe in his Dormitory and a freſh Roſe will ariſe from the ſame Root: Obſerve a little before, and you ſhall ſee an Ea<g ref="char:EOLhyphen"/>gle a light upon the Tower of <hi>Canterbury,</hi> and two white Doves ſhall
+<pb n="8" facs="tcp:119339:7"/>come and oppoſe him, but after a ſmall repoſe the Eagle will return to the Wood, and the two Doves retire to the Fop of the Church, and af<g ref="char:EOLhyphen"/>ter a ſhort ſpace they ſhall take their flight towards ſome great City; Then ſhall a Man in a long Gowne ſay, This is a great and notable Sign, what meaneth it? Then ſhall a man of a ſtrange Nation anſwer, ſhaking his head and ſay, ſome mighty Monarch is deſperate ill, but if hee paſſeth the 9.th day, the 19.th and 29.th, it will bee added to his Reigne 15. yeares: It is obſerved that this Prediction comes nea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of that Propheſie o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the yeare 1660. wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch was fore-ſaw by the heathen <hi>Jew</hi> that the ſecond of this ſame Letter <hi>C.</hi> ſhould reigne Dominicall Fifty five yeares. Propheſie CLEOMBROTVS.</p>
+            </div>
+            <div type="prophecy">
+               <head>The third Propheſie on the yeare, 1700.</head>
+               <l>
+                  <hi>TImes when the ſecond Letter</hi> C.</l>
+               <l>
+                  <hi>Begins to reigne will proſperous be,</hi>
+               </l>
+               <l>
+                  <hi>Whoſe great abilities have been fore told,</hi>
+               </l>
+               <l>
+                  <hi>And pattern to the univerſall World;</hi>
+               </l>
+               <l>
+                  <hi>All malice <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>vy, hate diſcord and ſpight,</hi>
+               </l>
+               <l>
+                  <hi>For length of dayes will vaniſh from his ſight<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>
+                  <hi>He will exceed all Reignes of Kings before,</hi>
+               </l>
+               <l>
+                  <hi>He'l reigne till Forty ſeven if not more,</hi>
+               </l>
+               <l>
+                  <hi>And if in forty eight he <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſſe a drift.</hi>
+               </l>
+               <l>
+                  <hi>He'l reigne <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> fifty, no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll Fif<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y ſiſt</hi>
+               </l>
+               <l>
+                  <hi>With <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> and godly ſame<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>
+                  <hi>Both Peace and Plenty then ſhall end his Reigne.</hi>
+               </l>
+            </div>
+            <div type="prophecy">
+               <head>The fourth Propheſie.</head>
+               <p>THen ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll you ſee the time, that preſently after you will ſee a third Letter of the <hi>C.</hi> take the Royall Diadem, no ſtrifes nor combu<g ref="char:EOLhyphen"/>ſtions will be at that time little diff<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rence will be known between the third and the ſecond <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> will ſtand quiet for great while, and the Land will make no noiſe: But obſerve when you ſee the time that w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en <hi>Canterbury</hi> ſhall remove to <hi>London,</hi> ſome Northern Caſtle will bee brought to <hi>Yorks;</hi> And that yeare ſhall the Eagle deſert the Lyon but will be taken by a Moo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e upon <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e heath,</hi> and ſhall be brought to <hi>London,</hi> but be ware his Talons bee not clipt, for if it bee
+<pb n="9" facs="tcp:119339:7"/>he ſhall be diſtinguiſht from his pearch for ever after: But if he do but ſhift his feathers before the Moone do overſhadow him, his Neaſt will bee built higher then ever it was. Deſcribed thus —</p>
+               <p>It was by another Writing adjoyned to this Propheſie, interpreted,</p>
+               <p>The meaning of it.</p>
+               <p>That in the 17.th of the Reign of <hi>Charles</hi> the third, there ſhould be an Earle of <hi>Derby</hi> that ſhould conſpire againſt the King, and being diſ<g ref="char:EOLhyphen"/>covered ſhould deſert the Court intending to fly to <hi>Weſt-Cheſter,</hi> and that there will bee a great Reere whoſe name will bee <hi>Sea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oore</hi> High Chancelor at that time, which ſhall apprehend him on <hi>Dunſmoor-heath</hi> and bring him to <hi>London;</hi> Meaning that if his Talons ſhould be clipt he ſhould bee ſecuted in Priſon and ſoone cut off; But if hee did ſhift his Feather, before the Moone overſhadowed him was paying many great Fines and quit himſelfe by the helpe of friends, before the Earle of <hi>Northumberland</hi> ſhould proſecute againſt him: His Neaſt to be built higher was meant, that if bee ſcap't his power and dignity ſhould bee higher advanced then ever it was.</p>
+            </div>
+            <div type="prophecy">
+               <head>A Propheſie upon <hi>Charles</hi> the third, and two Kings after him by the heathen <hi>Iew.</hi>
+               </head>
+               <lg>
+                  <l>
+                     <hi>WHen that the third of this ſame Letter</hi> C. <hi>doe reigne,</hi>
+                  </l>
+                  <l>
+                     <hi>Then will be cheape all kind of Graine,</hi>
+                  </l>
+                  <l>
+                     <hi>The ſpace of Twenty two yeares 'twill conſiſt,</hi>
+                  </l>
+                  <l>
+                     <hi>Which this Prediction here doth manifeſt:</hi>
+                  </l>
+                  <l>
+                     <hi>No wars nor <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>mours in his Reigne ſhall be,</hi>
+                  </l>
+                  <l>
+                     <hi>Except in thirty or in Thirty three.</hi>
+                  </l>
+                  <l>
+                     <hi>And then ſome forraigne Prince will with him farre,</hi>
+                  </l>
+                  <l>
+                     <hi>Which in the Thirty fourth <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> a Warre,</hi>
+                  </l>
+                  <l>
+                     <hi>In</hi> June <hi>it falls <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> mark<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> in</hi> July <hi>after,</hi>
+                  </l>
+                  <l>
+                     <hi>'Twixt</hi> Deepe <hi>and</hi> Calis <hi>is a mighty ſlaughter;</hi>
+                  </l>
+                  <l>
+                     <hi>The firſt will dye, the third will have Renowne,</hi>
+                  </l>
+                  <l>
+                     <hi>And with two Royall Standards and a Crowne,</hi>
+                  </l>
+                  <l>
+                     <hi>Which end the grudge long time had been before,</hi>
+                  </l>
+                  <l>
+                     <hi>But after this will ne're be Battell <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>re,</hi>
+                  </l>
+                  <l>
+                     <hi>The</hi> F. <hi>ſhall ſubject be unto the</hi> E.</l>
+                  <l>
+                     <hi>And ſayle ſubjective <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> them as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>.</hi>
+                  </l>
+                  <pb n="10" facs="tcp:119339:8"/>
+                  <l>
+                     <hi>To</hi> Charles <hi>the third will Nations interceſſe,</hi>
+                  </l>
+                  <l>
+                     <hi>He'l live in Peace and dye in qute<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>neſſe.</hi>
+                  </l>
+               </lg>
+               <p>After this you ſhall obſerve, that another great Prince of the Blood will ar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ie from the former Roote, and his Name will begin with the ſame Letter which is ſet downe, and come in according to the Prophe<g ref="char:EOLhyphen"/>ſie 1602. <hi>(J.)</hi> he will beare a red Lyon on the le<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſide, and reign Do<g ref="char:EOLhyphen"/>minicall ſeven yeares without W<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r or Deſcention.</p>
+               <lg>
+                  <l>
+                     <hi>But then beware O</hi> Germany!</l>
+                  <l>
+                     <hi>For the Letter</hi> J. <hi>will Emperor be.</hi>
+                  </l>
+               </lg>
+               <p>The ſecond L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r of this name wil be a mighty Warriour abroad <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> other Nations, great Conqueſts will bee gotten, but in the laſt Battell he will intend to ſight in the Eaſtern parts of the World; Let him be<g ref="char:EOLhyphen"/>ware the Moone he doe not change for if he doe the day will be loſt in the forenoone and a great Prince of the blood will be ſlaine, but in the afternoon he ſhall recover it moſt part by the aſſiſtance of a Mon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke; Three Kings will be in the field that day, but the Victory will goe to the Weſt, and ſuddenly after will a Northern Prince ſend an Embaſſage to this great Conqueror; But, let him beware hee gives not Audi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, for it he doe the Letter <hi>J.</hi> will be in danger of a flab, and if hee eſcape that he will be delivered from a great many more that year following; But in the Moneth of <hi>December</hi> let him ſit up late, and have truſty friends to be Eſquire of his body for under die Mat of his Bed Cham<g ref="char:EOLhyphen"/>ber will a hor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>tructive Beare be lodged, yet will bee diſcovered <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y the Sent of a Ta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bot, whereby <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Moone will bee grea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly ecli<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſed, and indanger the loſſe of his light: After this the Letter <hi>J.</hi> will return home and carry the houſe of <hi>Auſtria</hi> upon his booke great La<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds will be ſubj<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctive, and never after will Wars or Rebellion bee heard o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in his dayes, in <hi>Canterbury</hi> he<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> end his Reigne in quiet.</p>
+               <p>But before this will the Prince of the blood b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> borne in <hi>Cornwall,</hi> and the fourth of the name which begin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> but then ſhall <hi>London</hi> bee removed to <hi>Canterbury,</hi> and remaine the ſpace of ſixteene years, at which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> will England bee troubled <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Roman Sena<g ref="char:EOLhyphen"/>tors; For then ſhall two ſh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s ſayle <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the River of <hi>Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s,</hi> and a Marchant on the bridge ſhall aske them what M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>handize they have, and the other ſhall anſwer two white Ravens and black Swan; The Marchant on the bridge ſhall aske<g ref="char:punc">▪</g> what they will have in exchange for
+<pb n="11" facs="tcp:119339:8"/>them, they will anſwer the Cathedrall of <hi>Pauls</hi> and the Reliques ther<g ref="char:EOLhyphen"/>unto belonging: Then the Marchants will ſay their Merchandize are but Counterfets, and <hi>Pauls</hi> is too heavy for the ſtrength of <hi>Rome</hi> to re<g ref="char:EOLhyphen"/>move, at which the Tower will ſeeme to thunder, and <hi>Dover</hi> Caſtle to give an Echo. It is interpreted by Doctor <hi>Delanoroſus</hi> thus, —</p>
+               <p>That when <hi>Charles</hi> the fourth ſhould take the Royall Diadem <hi>Lon<g ref="char:EOLhyphen"/>don</hi> will be removed to <hi>Canterbury,</hi> that is, hee will remove his Cour<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to <hi>Canterbury</hi> for ſixteene yeares, in which later time England will b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> troubled with two Rom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Senators, that is the Pope ſhall ſend to the Biſhops of England and endeavou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to ſed<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce them for to acknowledg the Supremacy of <hi>Rome;</hi> The Marchants on the Bridge ſignifies, the Biſhops diſputing upon the grounds of Religion; The two white Ra<g ref="char:EOLhyphen"/>vens are the Popes Indulgences, and the black Swan his Tyranicall pe<g ref="char:EOLhyphen"/>nance; Had he but obtained his errand the Saying of the Biſhops their Merchandize; were Counterfets was the Invalidity of their Proffers; And that <hi>Paul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> was too heavy for <hi>Rome</hi> to carry away ſignifies, they will keepe up the Church Government and r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nounce his Idolatry, af<g ref="char:EOLhyphen"/>ter this Church Government of England ſhall never be attempted, nei<g ref="char:EOLhyphen"/>ther by Pope nor Sect<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>any more: Now the thundering of the To<g ref="char:EOLhyphen"/>wer and the Echo of <hi>Dover</hi> Caſtle. is the Roaring of ſome great Guns in ſcorne to the Popes Supremacy.</p>
+            </div>
+            <div type="prophecy">
+               <head>The Deſcription of <hi>Charles</hi> the fourth.</head>
+               <lg>
+                  <l>WHen <hi>Charles</hi> the fourth reigneth <hi>Englands</hi> King,</l>
+                  <l>Some great repulſe to <hi>Ro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e</hi> that yeare will bring;</l>
+                  <l>The time Religion he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l maintaine as far,</l>
+                  <l>As <hi>Charles</hi> the ſecond his Progenitor,</l>
+                  <l>Or <hi>Charles</hi> the third of everlaſting fame,</l>
+                  <l>Or <hi>Jan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e</hi> his fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>her ſecond of that name,</l>
+                  <l>Who was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ict or to us both by Land and Sea;</l>
+                  <l>But <hi>Charles</hi> his Reig<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> war<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in it ſha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l be,</l>
+                  <l>Both peace and plenty all his dayes ſhall ſpring,</l>
+                  <l>That's one and twenty yeares be'l be a King;</l>
+                  <l>So long continuance he ſhall rule in ſway,</l>
+                  <l>Then like a Roſe he will depart away,</l>
+                  <l>With griefe of thouſands he will and his Reigne.</l>
+                  <l>Then ſeventh <hi>Edward</hi> will come in again:</l>
+                  <pb n="12" facs="tcp:119339:9"/>
+                  <l>From <hi>James</hi> the ſecond know it certainly</l>
+                  <l>Theſe Kings will rule Jmperiall Majeſty;</l>
+                  <l>Till <hi>Charles</hi> the fifth both King and Emperor then,</l>
+                  <l>Shall keepe his Court in <hi>Germany</hi> agen.</l>
+               </lg>
+            </div>
+            <div type="prophecy">
+               <head>On <hi>Edward</hi> the ſeventh.</head>
+               <p>OBſerve, that neare the yeare 1799. there will a Prince of the blood bee b<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e in <hi>Canterbury,</hi> and at two yeares of age he <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>per all Crowne will be put on his head, and he ſhall remaine under the Tu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ion of a Monck three years: But <hi>Yorke</hi> will have the preheminence.</p>
+               <div type="part">
+                  <head>The Deſcription.</head>
+                  <lg>
+                     <l>WHen that the Moneth of <hi>July</hi> doth begin,</l>
+                     <l>In <hi>Canterbury</hi> will be born a King;</l>
+                     <l>
+                        <hi>Edward</hi> the ſeventh he is car'd by name,</l>
+                     <l>But in the linage of the former name,</l>
+                     <l>Till that the time of Sixteen years doth come,</l>
+                     <l>A M<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>k<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> will be his <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>or all along.</l>
+                     <l>But neare the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ghte<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>th <hi>Cleombrotus</hi> ſay,</l>
+                     <l>This ſeventh <hi>Edward</hi> will depart away,</l>
+                     <l>And then will <hi>Yorke</hi> rule Lord Protector he,</l>
+                     <l>Till <hi>Charles</hi> the fifth comes to Maturity,</l>
+                     <l>Which when the Royall Diedem ſhall take,</l>
+                     <l>And make the Crownes of other Princes ſhake;</l>
+                     <l>But when that Twenty yeares is gone and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ast,</l>
+                     <l>To his Native Countrey he comes home at last,</l>
+                     <l>And leaves his Crowne and to the Grave doth goe,</l>
+                     <l>He'l dye in Love both peace and plenty too:</l>
+                  </lg>
+                  <lg>
+                     <l>All was fore ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>w what <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>re is told to you,</l>
+                     <l>And was predicted by a heathen Jew.</l>
+                  </lg>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
